@@ -1,0 +1,7 @@
+Model,Rouge_Scores,Length_of_Summary,Training_Time,
+Model 1,0.36,127,25,
+Model 2,0.98,137,36,
+Model 3,0.93,136,82,
+Model 4,0.69,142,41,
+Model 5,0.58,132,20,
+Model 6,0.62,128,11,
